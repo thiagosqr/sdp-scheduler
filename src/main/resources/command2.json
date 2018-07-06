@@ -1,0 +1,10 @@
+{
+  "name": "Test Command",
+  "command": "select * from people",
+  "frequency": "Hourly",
+  "type": "Sql",
+  "time_options": {
+    "hours": 14,
+    "minutes": 35
+  }
+}
